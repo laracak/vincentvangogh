@@ -1,2 +1,0 @@
-# vincentvangogh
-Patika.dev ödevi
