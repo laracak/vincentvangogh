@@ -1,0 +1,45 @@
+/****** Layout ******/
+
+.fs-itl {
+    font-style: italic;
+}
+
+.fs-15 {
+    font-size: 20px;
+}
+
+.text-m {
+    color: rgb(226, 140, 140);
+}
+
+.text-gri {
+    color: rgb(104, 99, 99);
+}
+
+h1,
+h2 {
+    color: rgb(119, 37, 37);
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+    color: rgb(226, 140, 140);
+}
+
+.text-l {
+    font-family: serif;
+}
+
+li {
+    font-size: 17px;
+    font-family: sans-serif;
+    color: rgb(158, 30, 30);
+}
+
+.footer {
+    font-size: 20;
+    font-family: sans-serif;
+    color: rgb(204, 27, 110);
+}
